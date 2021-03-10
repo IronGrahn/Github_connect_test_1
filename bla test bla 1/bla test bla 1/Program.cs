@@ -10,6 +10,7 @@ namespace bla_test_bla_1
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
